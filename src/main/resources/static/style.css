@@ -202,3 +202,32 @@ a:active {text-decoration:none}
     float: right;
     width: 40px;
 }
+
+.about-page-row{
+    display: flex;
+    gap: 20px;
+}
+
+.about-page-col{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+    min-height: 500px;
+    padding-top: 50px;
+}
+.about-page-img-trip{
+    border-radius: 15px;
+}
+.about-page-col_2{
+    background-color: ghostwhite;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 15px;
+    min-height: 500px;
+}
+.about-page-col_2-div_1{
+    min-height: inherit;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 50px;
+}
